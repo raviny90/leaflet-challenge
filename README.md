@@ -14,4 +14,4 @@ https://earthquake.usgs.gov/
 * Created a legend
 
 
-* In order to run index.html file click this link: https://raviny90.github.io/leaflet-challenge/.
+ In order to run index.html file click this link: https://raviny90.github.io/leaflet-challenge/.
