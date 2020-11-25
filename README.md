@@ -1,6 +1,6 @@
 # leaflet-challenge
 
-## Utilized Earthquake GeoJSON Data from the United States Geological Survey website for this data visualization
+### Utilized Earthquake GeoJSON Data from the United States Geological Survey website for this data visualization
 https://earthquake.usgs.gov/
 
 ### Utilized HTML, Javascript and Leaflet plugins for javascript to complete the activity
