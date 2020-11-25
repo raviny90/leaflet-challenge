@@ -12,3 +12,6 @@ Create a map utilizing Leaflet to plot the earthquake using latitude and longitu
 Create data markers utilizing the magnitude of the earthquake (the greater the magnitude, the larger and darker the marker)
 Create pop-ups to provide information about the earthquake
 Create a legend
+
+
+* In order to run index.html file click this link:http://localhost:52330/index.html
