@@ -14,4 +14,4 @@ Create pop-ups to provide information about the earthquake
 Create a legend
 
 
-* In order to run index.html file click this link:http://localhost:52330/index.html
+* In order to run index.html file click this link: https://raviny90.github.io/leaflet-challenge/.
